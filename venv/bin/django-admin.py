@@ -1,4 +1,4 @@
-#!/home/ainazar/projects/drf_level_three/venv/bin/python3
+#!/home/ainazar/projects/drf-level-three/venv/bin/python3
 from django.core import management
 
 if __name__ == "__main__":

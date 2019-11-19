@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/ainazar/projects/drf_level_three/venv"
+VIRTUAL_ENV="/home/ainazar/projects/drf-level-three/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
