@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/home/ainazar/projects/drf_level_three/venv/bin/python"
+    "python.pythonPath": "/home/ainazar/projects/drf-level-three/venv/bin/python",
+    "git.ignoreLimitWarning": true
 }

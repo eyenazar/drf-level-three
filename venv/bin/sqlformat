@@ -1,5 +1,4 @@
-#!/home/ainazar/projects/drf-level-three/venv/bin/python3
-
+#!/home/ainazar/projects/drf-level-three/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
