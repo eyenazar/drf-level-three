@@ -6,7 +6,7 @@ from profiles.api.views import (ProfileViewSet,
 
 router = DefaultRouter()
 router.register(r'profiles', ProfileViewSet)
-router.register(r'status', ProfileStatusViewset)
+router.register(r'status', ProfileStatusViewset, basename='status')
 
 urlpatterns = [
     path('', include(router.urls)),
